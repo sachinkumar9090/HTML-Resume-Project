@@ -1,14 +1,16 @@
-Resume Website
+#Resume Website
 A simple personal resume website built using HTML. It showcases personal details, education, skills, work experience, projects, and achievements.
 
-Live Demo
+##Live Demo
+
+
 🔗 https://sachinresumeproject.netlify.app/
 
-Technologies Used
+##Technologies Used
 HTML5
 
-Deployment
+##Deployment
 Deployed using Netlify.
 
-Author
+##Author
 Sachin Kumar
